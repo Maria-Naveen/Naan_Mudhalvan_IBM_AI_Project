@@ -5,4 +5,5 @@
   *Each pdf file denotes the different phases of development.
   *"https://colab.research.google.com/drive/10B1VjX-SVS0X-YSSvxs2L1Ib5hhDuYBu?usp=sharing" is the Colab Notebook link.
   *Feel free to run the cells in the notebook.
-
+  *The dataset used in this project is taken from Kaggle's repository.
+  *Dataset Link: https://www.kaggle.com/datasets/usgs/earthquake-database
